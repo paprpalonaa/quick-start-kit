@@ -2,13 +2,13 @@ import React from 'react';
 import { Command } from 'lucide-react';
 
 const features = [
-  { title: 'React + Vite', description: 'Modern frontend tooling' },
-  { title: 'Node/Express', description: 'Robust backend setup' },
-  { title: 'TailwindCSS', description: 'Utility-first styling' },
-  { title: 'Recoil', description: 'State management' },
-  { title: 'Prisma', description: 'Type-safe ORM' },
-  { title: 'Docker + CI', description: 'Production-ready deployment' },
-  { title: 'Turborepo', description: 'High-performance monorepo management' },
+  { title: '⚛️ React + Vite', description: 'Modern frontend tooling' },
+  { title: '🚀 Node/Express', description: 'Robust backend setup' },
+  { title: '🎨 TailwindCSS', description: 'Utility-first styling' },
+  { title: '🔄 Recoil', description: 'State management' },
+  { title: '🗃️ Prisma', description: 'Type-safe ORM' },
+  { title: '🐳 Docker + CI', description: 'Production-ready deployment' },
+  { title: '⚡ Turborepo', description: 'High-performance monorepo management' },
 ];
 
 const Index = () => {
