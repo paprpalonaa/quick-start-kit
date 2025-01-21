@@ -8,6 +8,7 @@ const features = [
   { title: 'Recoil', description: 'State management' },
   { title: 'Prisma', description: 'Type-safe ORM' },
   { title: 'Docker + CI', description: 'Production-ready deployment' },
+  { title: 'Turborepo', description: 'High-performance monorepo management' },
 ];
 
 const Index = () => {
